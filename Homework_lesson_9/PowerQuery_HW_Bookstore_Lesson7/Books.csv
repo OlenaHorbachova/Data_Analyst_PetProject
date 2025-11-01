@@ -1,0 +1,42 @@
+BookID,Title,Author,Genre,Publisher,ListPrice
+B001,Book 1: Winds,Jamie Fisher,Romance,NorthStar Press,29.99
+B002,Book 2: Winds,Charlie Diaz,Sci-Fi,PageTurner,29.99
+B003,Book 3: Winds,Casey Hughes,Fiction,Orion House,12.99
+B004,Book 4: Data,Jordan Hughes,Kids,Maple Leaf Publishing,14.99
+B005,Book 5: Winds,Avery Fisher,Non-Fiction,PageTurner,19.99
+B006,Book 6: Winds,Jordan Green,Romance,Orion House,12.99
+B007,Book 7: Journey,Charlie Fisher,History,Orion House,19.99
+B008,Book 8: Future,Morgan Green,Fiction,orion house,29.99
+B009,Book 9: Future,Alex Hughes,Non-Fiction,Maple Leaf Publishing,9.99
+B010,Book 10: Design,Alex Fisher,History,Orion House,9.99
+B011,Book 11: Shadows,Charlie Campbell,Fiction,PageTurner,12.99
+B012,Book 12: Shadows,Jordan Campbell,Romance,Orion House,29.99
+B013,  Book 12:   Future  ,Taylor Hughes,Kids,Maple Leaf Publishing,14.99
+B014,Book 14: Data,Jamie Adams,Fiction,NorthStar Press,9.99
+B015,Book 15: Design,Jamie Hughes,Kids,NorthStar Press,29.99
+B016,Book 16: Legends,Taylor Campbell,Kids,BlueWave Books,29.99
+B017,Book 17: Legends,Taylor Brooks,Non-Fiction,Orion House,14.99
+B018,Book 18: Future,Jordan Adams,Business,Maple Leaf Publishing,29.99
+B019,Book 19: Design,Avery Adams,Non-Fiction,Orion House,29.99
+B020,Book 20: Design,Jordan Evans,Non-Fiction,Orion House,19.99
+B021,Book 21: Winds,Quinn Brooks,Business,Orion House,12.99
+B022,Book 22: Journey,Riley Campbell,Fiction,NorthStar Press,29.99
+B023,Book 23: Future,Charlie Hughes,History,Maple Leaf Publishing,9.99
+B024,Book 24: Design,Morgan Evans,Romance,BlueWave Books,24.99
+B025,Book 25: Design,Casey Adams,Non-Fiction,Orion House,14.99
+B026,Book 26: Design,Quinn Green,History,NorthStar Press,29.99
+B027,Book 27: Winds,Jamie Brooks,Non-Fiction,BlueWave Books,29.99
+B028,Book 28: Journey,Taylor Fisher,Fiction,Orion House,9.99
+B029,Book 29: Legends,Morgan Fisher,Business,Maple Leaf Publishing,12.99
+B030,Book 30: Data,Avery Ivanov,Business,Orion House,14.99
+B031,Book 31: Shadows,Riley Diaz,Romance,BlueWave Books,19.99
+B032,Book 32: Shadows,Alex Diaz,Fiction,Maple Leaf Publishing,14.99
+B033,Book 33: Legends,Avery Adams,Sci-Fi,Maple Leaf Publishing,29.99
+B034,Book 34: Winds,Alex Hughes,Business,NorthStar Press,9.99
+B035,Book 35: Future,Avery Evans,Kids,Maple Leaf Publishing,12.99
+B036,Book 36: Legends,Alex Adams,History,Orion House,24.99
+B037,Book 37: Journey,Jordan Jones,Kids,PageTurner,14.99
+B038,Book 38: Journey,Taylor Hughes,History,PageTurner,9.99
+B039,Book 39: Shadows,Alex Diaz,Sci-Fi,BlueWave Books,29.99
+B040,Book 40: Journey,Morgan Diaz,History,BlueWave Books,12.99
+B006,Book 6: Winds,Jordan Green,Romance,Orion House,12.99
